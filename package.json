@@ -17,6 +17,7 @@
     "node-sass": "^4.9.1"
   },
   "dependencies": {
+    "hoek": "^5.0.3",
     "react": "^16.4.1",
     "react-dom": "^16.4.1"
   }
