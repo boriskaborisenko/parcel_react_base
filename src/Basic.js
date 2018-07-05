@@ -7,12 +7,18 @@ class Basic extends React.Component{
 	
 	constructor(){
 		super();
+		this.variable = 'Dude';
+		
 		
 	}
 	
 	render(){
 		return(
-			<h1>React Parcel Component {this.props.name}</h1>
+			<div>
+				<h1>React + Parcel</h1>
+				<div>{this.props.name} {this.variable}</div>
+			</div>
+			
 		)
 	}
 	
