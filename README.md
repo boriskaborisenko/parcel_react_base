@@ -3,7 +3,7 @@
 No webpack. No setup. Just works!
 Babel and React inside.
 
-Type ```parcel``` in console to run development.
+Type ```npm start``` in console to run development on http://localhost:1234
 
 Default port :1234
 
