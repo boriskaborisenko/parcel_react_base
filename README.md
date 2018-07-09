@@ -1,7 +1,7 @@
-# React + Parcel Basic Project Template
+# React + Redux. Parcel Basic Project Template
 
 No webpack. No setup. Just works!
-Babel and React inside.
+Babel inside.
 
 Type ```npm start``` in console to run development on http://localhost:1234
 
